@@ -28,3 +28,12 @@ Tailwind CSS is a highly customizable, low-level CSS framework that gives you al
    
 
 ```
+
+
+### Resoruces 
+
+##### Tailwind
+https://tailwindcss.com/docs/installation/
+
+##### Laravel
+https://laravel.com/   
