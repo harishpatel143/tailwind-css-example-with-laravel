@@ -1,0 +1,14 @@
+@tailwind base;
+
+
+@tailwind components;
+
+.form-input{
+    @apply mt-1 block w-full bg-gray-100 border border-gray-200 rounded px-5 py-3 leading-tight text-gray-800;
+}
+
+.form-input:hover{
+    @apply outline-none bg-white;
+}
+
+@tailwind utilities;
